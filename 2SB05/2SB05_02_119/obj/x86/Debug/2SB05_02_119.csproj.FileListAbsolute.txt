@@ -1,0 +1,16 @@
+c:\users\coe\documents\visual studio 2010\Projects\2SB05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.exe
+c:\users\coe\documents\visual studio 2010\Projects\2SB05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.pdb
+c:\users\coe\documents\visual studio 2010\Projects\2SB05_02_119\2SB05_02_119\obj\x86\Debug\_2SB05_02_119.Properties.Resources.resources
+c:\users\coe\documents\visual studio 2010\Projects\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.csproj.GenerateResource.Cache
+c:\users\coe\documents\visual studio 2010\Projects\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.exe
+c:\users\coe\documents\visual studio 2010\Projects\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.pdb
+c:\users\coe\documents\visual studio 2010\Projects\2SB05_02_119\2SB05_02_119\obj\x86\Debug\_2SB05_02_119.Form1.resources
+C:\Users\coe\Documents\Visual Studio 2010\Projects\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.csprojResolveAssemblyReference.cache
+D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.csprojResolveAssemblyReference.cache
+D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\_2SB05_02_119.Form1.resources
+D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\_2SB05_02_119.Properties.Resources.resources
+D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.csproj.GenerateResource.Cache
+D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.exe
+D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.pdb
+D:\2SB05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.exe
+D:\2SB05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.pdb
