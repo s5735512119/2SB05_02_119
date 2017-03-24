@@ -21,6 +21,26 @@ namespace _2SB05_02_119
         public Form1()
         {
             InitializeComponent();
+
+            dataGridView1.MultiSelect = false;
+            dataGridView1.SelectionChanged += (obj, e) =>
+            {
+
+                var row = dataGridView1.SelectedRows;
+                if (row.Count > 0)
+                {
+                    txtTitle.Text = row[0].Cells["Title"].Value.ToString();
+                    txtName.Text = row[0].Cells["FirstName"].Value.ToString();
+                    txtSurname.Text = row[0].Cells["LastName"].Value.ToString();
+                    txtCountry.Text = row[0].Cells["Country"].Value.ToString();
+                    txtCity.Text = row[0].Cells["City"].Value.ToString();
+                }
+            };
+        }
+
+        private void dgv_RowPrePaint(object sender, DataGridViewRowPrePaintEventArgs e)
+        {
+            e.PaintParts &= ~DataGridViewPaintParts.Focus;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -90,7 +110,7 @@ namespace _2SB05_02_119
             dAdapter = new OleDbDataAdapter("select * from PersonTable",con);
             dAdapter.Fill(dSet, "PersonTable");
             this.dataGridView1.DataSource = dSet.Tables["PersonTable"];*/
-            txtName.DataBindings.Add("Text", dSet.Tables["PersonTable"],"FirstName");
+            //txtName.DataBindings.Add("Text", dSet.Tables["PersonTable"],"FirstName");
             //txtSurname.DataBindings.Add("Text", dSet.Tables["PersonTable"],"LastName");
            // txtTitle.DataBindings.Add("Text", dSet.Tables["PersonTable"], "Title");
             //txtCity.DataBindings.Add("Text", dSet.Tables["PersonTable"], "City");

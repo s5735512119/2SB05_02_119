@@ -14,3 +14,11 @@ D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.exe
 D:\2SB05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.pdb
 D:\2SB05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.exe
 D:\2SB05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.pdb
+C:\git\2sb05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.exe
+C:\git\2sb05_02_119\2SB05_02_119\bin\Debug\2SB05_02_119.pdb
+C:\git\2sb05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.csprojResolveAssemblyReference.cache
+C:\git\2sb05_02_119\2SB05_02_119\obj\x86\Debug\_2SB05_02_119.Form1.resources
+C:\git\2sb05_02_119\2SB05_02_119\obj\x86\Debug\_2SB05_02_119.Properties.Resources.resources
+C:\git\2sb05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.csproj.GenerateResource.Cache
+C:\git\2sb05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.exe
+C:\git\2sb05_02_119\2SB05_02_119\obj\x86\Debug\2SB05_02_119.pdb
